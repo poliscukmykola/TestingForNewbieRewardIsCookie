@@ -6,8 +6,7 @@ If you have decided to become a Software QA, this is good way how to start. Basi
 
 ## Theory
 ### Basic Testing Knowledge
-All testers should know basics of ISTQB.
-[Software Testing Help](htps://www.softwaretestinghelp.com). This provides a several topic I am going to mention here
+All testers should know basics of ISTQB. [Software Testing Help](www.softwaretestinghelp.com) provides a several topic I am going to mention here
 Tests can be manual and automated. 
 
 ### Types Of Testing
@@ -38,4 +37,4 @@ It really depends what are you more interteted into. User Interface (UI) is abou
 * [Postman](https://www.postman.com) is an API platform for building and using APIs. Same here, free version should be enough to try any API call.
 
 ### Important Web Pages
-On [W3School](https://www.w3schools.com) you can always find basic for most common languages. For more complicated problems there is always well known [Stack Overflow](https://stackoverflow.com) if you have a problem, there is always a thread with solution, just write a question. 
+On [W3School](https://www.w3schools.com) you can always find basics for most common languages. For more complicated problems there is always well known [Stack Overflow](https://stackoverflow.com) if you have a problem, there is always a thread with solution, just write a question. 
